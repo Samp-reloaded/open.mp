@@ -313,3 +313,5 @@ cmake_install.cmake
 *-targets.cmake
 CTestTestfile.cmake
 *Config.cmake
+build-local-mp-vs18-x64/
+build-local-mp-vs18/
